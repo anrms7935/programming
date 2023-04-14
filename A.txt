@@ -1,15 +1,4 @@
 1244313241324
-<<<<<<< HEAD
 sdf
 asdf
 sd
-=======
-
-
-
-asd
-sdf
-asd
-sadfdsfa
-asf
->>>>>>> e601820d1196f432e2041e3e2d8a61aa463e01ce
